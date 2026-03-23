@@ -21,6 +21,6 @@
 - slicing of 1D 2D 3D arrys
 
 ## Day 5 - Panda
--added first name , second name  column in Titanic data base in Google collab
--used average to fill the missing information about the people like age
+- added first name , second name  column in Titanic data base in Google collab
+- used average to fill the missing information about the people like age
 - removed the column like carbin which lacked majority of infomation.
