@@ -15,5 +15,12 @@
 - Key insight: Python is shorter than Java but 
   indentation replaces curly braces — easy to misread
 
-## Day 4 — NumPy (in progress)
+## Day 4 — NumPy 
 - Starting array thinking vs loop thinking
+- learnt the boardcasting
+- slicing of 1D 2D 3D arrys
+
+## Day 5 - Panda
+-added first name , second name  column in Titanic data base in Google collab
+-used average to fill the missing information about the people like age
+- removed the column like carbin which lacked majority of infomation.
