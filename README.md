@@ -26,6 +26,10 @@
 - removed the column like carbin which lacked majority of infomation.
 
 ## Day 6 - No progress
-- school started so (school commitments)
+- school started (school commitments)
 
-## Day 7 - Linear Algebra (In Progess)
+## Day 7 - Linear Algebra 
+- linear Algebra (basics)
+- Day 7 insight: AB ≠ BA in matrix multiplication — 
+  order of transformations matters, just like layer 
+  order in neural networks.
