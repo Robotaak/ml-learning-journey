@@ -24,3 +24,8 @@
 - added first name , second name  column in Titanic data base in Google collab
 - used average to fill the missing information about the people like age
 - removed the column like carbin which lacked majority of infomation.
+
+## Day 6 - No progress
+- school started so (school commitments)
+
+## Day 7 - Linear Algebra (In Progess)
