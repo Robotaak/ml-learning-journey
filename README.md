@@ -34,7 +34,11 @@
   order of transformations matters, just like layer 
   order in neural networks.
 
-## Day 8 & 9-  calculus
+## Day 8 & 9 -  calculus
 - Derivative = which direction makes the output go down.
 - Gradient descent = keep moving in that direction.
 - Backpropagation = chain rule applied through every layer.
+## Day 10 - Linear regression
+- Linear Regression is applied statistics.
+- Variance and residuals are the same math. 
+- R² = ratio of variance explained by the model.
