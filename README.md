@@ -34,7 +34,7 @@
   order of transformations matters, just like layer 
   order in neural networks.
 
-## Day 8 -  calculus
+## Day 8 & 9-  calculus
 - Derivative = which direction makes the output go down.
 - Gradient descent = keep moving in that direction.
 - Backpropagation = chain rule applied through every layer.
